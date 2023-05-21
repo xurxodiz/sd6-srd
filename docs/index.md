@@ -1,3 +1,8 @@
+---
+title: "SD6"
+nav_order: 0
+---
+
 # SD6
 
 Ti xa xogaches ao **rol**. Cando imaxinas que estás nos teus debuxos favoritos e interpretas a outras personaxes, iso é rol. Esta é apenas unha forma diferente que empregamos «a xente vella» para non sentirmos ridículos ^\_^
